@@ -8,7 +8,6 @@ Opening up the source code and assets for everyone that might be intersted in a 
 
 ## Instructions
 I am building this repository slowly, give me some time, I have a lot to chew on.
-
 1. You don't talk about FightClub
 2. You don't talk about FightClub
 
