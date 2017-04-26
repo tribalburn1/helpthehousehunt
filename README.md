@@ -1,5 +1,4 @@
 # helpthehousehunt
-
 This is the repository for  some assets from my Android App HelpTheHouseHunt
 
 - [Help the House Hunt](https://play.google.com/store/apps/details?id=sdei.app.helpthehousehuntfree)
